@@ -1,0 +1,16 @@
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.exe
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.deps.json
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.runtimeconfig.json
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.runtimeconfig.dev.json
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.dll
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\ref\004_SimulaTransferenciaBancaria.dll
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\bin\Debug\net5.0\004_SimulaTransferenciaBancaria.pdb
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.csprojAssemblyReference.cache
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.AssemblyInfoInputs.cache
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.AssemblyInfo.cs
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.csproj.CoreCompileInputs.cache
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.dll
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\ref\004_SimulaTransferenciaBancaria.dll
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.pdb
+C:\Workspace\bootcamps\004_SimulaTransferenciaBancaria\obj\Debug\net5.0\004_SimulaTransferenciaBancaria.genruntimeconfig.cache
